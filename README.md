@@ -14,7 +14,7 @@ Languages: English, Turkish, German, Persian
 - Multicultural Management  
 - Labour Unions in Iran & Turkey  
 - Mixed-Method Research  
-- Mouth-of-Marketing
+- Worf-of-Mouth Marketing
 ---
 
 ## 📂 Current Projects
